@@ -1,5 +1,7 @@
-﻿using EquipmentManagement.page.login;
+﻿using EquipmentManagement.page.craftSetting.workEquStation;
+using EquipmentManagement.page.login;
 using EquipmentManagement.page.production.BeginProduction;
+using EquipmentManagement.page.production.错误选择页面;
 using System;
 using System.Windows.Forms;
 
@@ -15,7 +17,8 @@ namespace EquipmentManagement
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BeginProdution());
+            System.Threading.Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("zh-CHS");
+            Application.Run(new login());
         }
     }
 }

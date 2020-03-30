@@ -17,5 +17,10 @@ namespace EquipmentManagement.page.production.BeginProduction
         {
             InitializeComponent();
         }
+
+        private void textEdit1_EditValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

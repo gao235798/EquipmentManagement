@@ -121,16 +121,22 @@
   <data name="欧凯" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\欧凯.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="esop示意图" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\esop示意图.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="工业电脑" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\工业电脑.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ok图标" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ok图标.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="呼叫线长图片" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\呼叫线长图片.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="生产正确图标" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\生产正确图标.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="呼叫线长图片" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\呼叫线长图片.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="esop示意图" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\esop示意图.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="机械手" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\机械手.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
